@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    border: 3px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.box{
+    height: 10rem;
+    width: 14rem;
+}
+
+.box1{
+background:#D61C4E
+}
+
+.box2{
+background:#F77E21
+}
+
+.box3{
+    background: #fac213;
+}
+
+.box4{
+    background:#fef9a7
+}
+
+.box5{
+    background:#ee9eb3
+}
+
+.box6{
+    background:#e6a675
+}
