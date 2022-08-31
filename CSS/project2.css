@@ -219,6 +219,17 @@ text-align: center;
 }
 
 
+/* contact section */
+#contact{
+    min-height: 100vh;
+    background: url("/IMAGES/mountain1.jpg");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+
+}
+
+
 /* Media Query */
 @media screen and (max-width:932px){
     html{
